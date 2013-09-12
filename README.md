@@ -7,7 +7,7 @@ ja ymmärtämiseen. Tarve suomalaiselle [School of Datan](http://schoolofdata.or
 Datakoulussa lähdetään siitä, että työkalulistalle hyväksytään vain välineitä, jotka edistävät datan 
 käyttämisen konvergenssia. Monet tiedonkäsittelyn formaatit, työkalut ja käytännöt ovat syntyneet jo vuosia sitten 
 ammattialakohtaisissa "taskuissa" nykymaailman ja nykyinternetin näkökulmasta teennäisten rajoitteiden
-vallitessa ja toisaalta autuaan tietämättöminä nykyisistä tiedon linkitys- ja hajautusmahdollisuuksista.
+vallitessa - autuaan tietämättöminä nykyisistä tiedon linkitys- ja hajautusmahdollisuuksista.
 
 Tietotekniikkaa on perinteisesti pidetty vain työkaluna, jonka opettelemiseen tulee käyttää mahdollisimman vähän
 aikaa. Insinöörit ja atk-tukihenkilöt ovat huolehtineet siitä. Tilanne on kuitenkin kovaa vauhtia muuttumassa. 
